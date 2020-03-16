@@ -1,4 +1,4 @@
-# Gene-CoExpression-Analysis
+# Gene Co-Expression Analysis
 
 A summer attachment project in Marek Mutwil's lab in NTU.
 
